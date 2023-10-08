@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377214686702",
+    "project_id": "shopping-ef350",
+    "storage_bucket": "shopping-ef350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377214686702:android:54076eb915d6e6b3e7aaff",
+        "android_client_info": {
+          "package_name": "com.example.testapp8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH7tZB4Mi8SeKfQnOLTymOC2_y_y04ErM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
