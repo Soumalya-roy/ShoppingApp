@@ -1,4 +1,4 @@
-# testapp8
+# ShoppingApp
 
 A new Flutter project.
 
